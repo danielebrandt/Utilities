@@ -1,0 +1,7 @@
+name: db-util
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
