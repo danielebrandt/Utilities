@@ -4,6 +4,6 @@ Launch an online version of this repository: [![Binder](http://mybinder.org/badg
 
 This repository provide some utilities functions of Paleomagnetism, provided in [`Dani_utilities_for_Git.py`](https://github.com/danielebrandt/Utilities/blob/master/Dani_utilities_for_Git.py).
 
-A jupyter notebook [`DB_VGPS_and_DispersionS.ipynb`](https://github.com/danielebrandt/Utilities/blob/master/DB_VGPS_and_DispersionS.ipynb) 
+A jupyter notebook [`VGPSandDispersionS.ipynb`](https://github.com/danielebrandt/Utilities/blob/master/VGPSandDispersionS.ipynb) 
 ilustrates how to use these functions.
 
